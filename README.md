@@ -6,7 +6,7 @@ Data Scientist | Analyst | Data Engineering
 
 * 🌍  I'm based in Tunisia.
 * ✉️  You can contact me at [elahmerintissar@gmail.com](mailto:elahmerintissar@gmail.com)
-* 🚀  I'm currently working on [AI & MLOps Research projects.](http://www.linkedin.com/in/intissarelahmer/)
+* 🚀  I'm currently working on [AI & Computer Vision Research projects.](http://www.linkedin.com/in/intissarelahmer/)
 * 🧠  I'm learning MLOps.
 * 🤝  I'm open to collaborating on projects and innovative/breakthrough ideas.
 * ⚡  Friendly reminder to support Tap Follow on the left and you will make my day
